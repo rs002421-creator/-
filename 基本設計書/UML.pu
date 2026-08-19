@@ -1,0 +1,55 @@
+@startuml flow
+left to right direction
+skinparam linetype polyline
+
+actor 利用者
+
+rectangle "蔵書管理システム" {
+
+    rectangle "利用者アプリケーション"{
+        usecase "蔵書検索(利用者)" as Search_u
+        usecase "貸出申請" as Borrow_apply
+        usecase "返却申請" as Return_apply
+        usecase "予約申請" as Reserve_apply
+    }
+
+    rectangle "スタッフアプリケーション"{
+        usecase "貸出処理" as Borrow_pros
+        usecase "返却処理" as Return_pros
+        usecase "利用者登録" as User_reg
+        usecase "利用者退会" as User_withdraw
+        usecase "蔵書検索(スタッフ)" as Search_s
+        usecase "蔵書詳細編集" as Book_edit
+        usecase "蔵書登録" as Book_reg
+        usecase "予約検索" as Search_reserve
+        usecase "予約キャンセル" as Reserve_cancel
+    }
+
+
+
+
+}
+
+actor スタッフ
+
+利用者 -- Search_u
+利用者 -- Borrow_apply
+利用者 -- Return_apply
+
+Search_u --> Reserve_apply
+Borrow_apply --> Borrow_pros
+Return_apply --> Return_pros
+Book_edit <-- Search_s
+Reserve_cancel <-- Search_reserve
+
+
+
+User_reg -- スタッフ
+User_withdraw -- スタッフ
+Search_s -- スタッフ
+Book_reg -- スタッフ
+Search_reserve -- スタッフ
+Return_pros -- スタッフ
+Borrow_pros -- スタッフ
+
+@enduml
