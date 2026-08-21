@@ -16,6 +16,7 @@
 |ERR_HAS_RESERVE_BOOK|すでに蔵書を予約しています|予約申請|
 |ERR_HAS_BORROW_BOOK|この利用者には貸出中の蔵書が存在します|利用者退会|
 |ERR_NON_STAFF_ID|スタッフIDを入力してください|スタッフ退会|
+|ERR_DIFFERENT_USER|利用者が一致しません|貸出処理|
 
 - バーコード読み込み時のエラーコード
 
