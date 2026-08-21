@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="i0iZq19yZLSTD9HDJQUU" name="ページ1">
-        <mxGraphModel dx="2349" dy="-2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1740" dy="-2704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -19,9 +19,9 @@
                         <mxGeometry x="800" y="3760" width="160" height="118" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <UserObject label="エラーメッセージ「予約を検索してください」を表示" mermaidId="n:D" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="エラーメッセージ「予約を検索してください」を表示" id="35">
+                <UserObject label="エラーコード「ERR_NON_SEARCH_RESERVE」" mermaidId="n:D" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="エラーメッセージ「予約を検索してください」を表示" id="35">
                     <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#DAE8FC,#1F2020);strokeColor=light-dark(#9370DB,#CCCCCC);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;perimeterSpacing=0;" parent="1" vertex="1">
-                        <mxGeometry x="1120" y="3760" width="160" height="54" as="geometry"/>
+                        <mxGeometry x="1080" y="3760" width="240" height="60" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="読み込まれたカードの利用者と検索された予約の利用者は一致しているか？" mermaidId="n:E" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="読み込まれたカードの利用者と検索された予約の利用者は一致しているか？" id="36">
@@ -34,9 +34,9 @@
                         <mxGeometry x="600" y="4080" width="160" height="118" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <UserObject label="エラーメッセージ「予約者と読み込んだ利用者が一致しません」を表示" mermaidId="n:G" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="エラーメッセージ「予約者と読み込んだ利用者が一致しません」を表示" id="38">
+                <UserObject label="エラーコード「ERR_DIFFERENT_USER」" mermaidId="n:G" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="エラーメッセージ「予約者と読み込んだ利用者が一致しません」を表示" id="38">
                     <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#DAE8FC,#1F2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" parent="1" vertex="1">
-                        <mxGeometry x="1000" y="4080" width="160" height="80" as="geometry"/>
+                        <mxGeometry x="980" y="4080" width="200" height="80" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="削除確認ポップアップではいボタン、いいえボタンのどちらが押されたか？" mermaidId="n:H" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="削除確認ポップアップではいボタン、いいえボタンのどちらが押されたか？" id="39">
