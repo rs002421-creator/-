@@ -28,6 +28,6 @@
 |ERR_BARCODE|利用者カードまたは蔵書のバーコードを読み込んでください|貸出申請|
 |ERR_NON_EXIST|この利用者、または蔵書は存在しません|貸出申請|
 |ERR_ALREADY_BORROW|この蔵書は貸出中です|貸出申請|
-|ERR_BOWWOW_LIMIT|貸出上限に達しています|貸出申請|
+|ERR_BORROW_LIMIT|貸出上限に達しています|貸出申請|
 |ERR_BOOK_BARCODE|蔵書のバーコードを読み込んでください|返却申請|
 |ERR_NON_EXIST_BOOK|この蔵書は存在しません|返却申請|
