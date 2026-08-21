@@ -1,279 +1,282 @@
 <mxfile host="65bd71144e">
     <diagram name="ページ-1" id="mumlvV8ZZGj4d66a3S99">
-        <mxGraphModel dx="2545" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1786" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="174" value="" style="group;fontSize=25;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="253" width="693.34" height="1920" as="geometry"/>
+                </mxCell>
                 <UserObject label="検索結果取得" mermaidId="n:A" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索結果取得" id="131">
-                    <mxCell style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-                        <mxGeometry x="1130" y="50" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="174" vertex="1">
+                        <mxGeometry x="213.3353846153846" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="検索件数を表示" mermaidId="n:B" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索件数を表示" id="132">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1130" y="130" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="213.3353846153846" y="106.66666666666666" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="タイトルは20文字以内か？" mermaidId="n:D" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="タイトルは20文字以内か？" id="133">
-                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1090" y="370" width="240" height="80" as="geometry"/>
+                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="160.00153846153847" y="426.66666666666663" width="320.00307692307695" height="106.66666666666666" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="タイトルをすべて&lt;br&gt;表示" mermaidId="n:E" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="タイトルをすべて表示" id="134">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="970" y="490" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry y="586.6666666666666" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="136" target="133">
+                <mxCell id="135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="136" target="133" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="タイトルを先頭20文字のみ表示" mermaidId="n:F" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="タイトルを先頭20文字のみ表示" id="136">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1290" y="490" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="426.6707692307692" y="586.6666666666666" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="著者名は20文字以内か？" mermaidId="n:G" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="著者名は20文字以内か？" id="137">
-                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1090" y="610" width="240" height="80" as="geometry"/>
+                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="160.00153846153847" y="746.6666666666667" width="320.00307692307695" height="106.66666666666666" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="著者名をすべて表示" mermaidId="n:H" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="著者名をすべて表示" id="138">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="970" y="730" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry y="906.6666666666665" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="著者名を先頭20文字のみ表示" mermaidId="n:I" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="著者名を先頭20文字のみ表示" id="139">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1290" y="730" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="426.6707692307692" y="906.6666666666665" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="ジャンルを表示" mermaidId="n:J" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="ジャンルを表示" id="140">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1131" y="810" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="214.66873076923076" y="1013.3333333333333" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="貸出状態を表示" mermaidId="n:K" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="貸出状態を表示" id="141">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1130" y="890" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="213.3353846153846" y="1120" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="検索件数分の蔵書の情報を表示した、&lt;br&gt;または20件分の蔵書の情報を表示した？" mermaidId="n:L" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索件数分の蔵書の情報を表示した、または20件分の蔵書の情報を表示した？" id="142">
-                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1025" y="970" width="370" height="160" as="geometry"/>
+                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="73.33403846153846" y="1226.6666666666665" width="493.338076923077" height="213.33333333333331" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="検索件数が20件以上か？" mermaidId="n:M" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索件数が20件以上か？" id="143">
-                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1091" y="1250" width="240" height="80" as="geometry"/>
+                    <mxCell style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="161.3348846153846" y="1600" width="320.00307692307695" height="106.66666666666666" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="ページ切り替えボタンを有効にする" mermaidId="n:N" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="ページ切り替えボタンを有効にする" id="144">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="970" y="1370" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry y="1760.0000000000002" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="ページ切り替えボタンを無効にする" mermaidId="n:O" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="ページ切り替えボタンを無効にする" id="145">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1290" y="1370" width="160" height="50" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="426.6707692307692" y="1760.0000000000002" width="213.3353846153846" height="66.66666666666667" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="終了" mermaidId="n:P" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="終了" id="146">
-                    <mxCell style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-                        <mxGeometry x="1170" y="1450" width="80" height="40" as="geometry"/>
+                    <mxCell style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="174" vertex="1">
+                        <mxGeometry x="266.6692307692308" y="1866.6666666666667" width="106.6676923076923" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:A-&gt;B#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="147">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="131" target="132">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="131" target="132" edge="1">
                         <mxGeometry relative="1" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:B-&gt;C#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="148">
-                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="132">
+                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;" parent="174" source="132" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points"/>
-                            <mxPoint x="1210" y="210" as="targetPoint"/>
+                            <mxPoint x="320.00307692307695" y="213.33333333333331" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:C-&gt;D#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.28;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="149">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="133">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;fontSize=25;" parent="174" target="133" edge="1">
                         <mxGeometry relative="1" as="geometry">
-                            <mxPoint x="1210" y="250" as="sourcePoint"/>
+                            <mxPoint x="320.00307692307695" y="266.6666666666667" as="sourcePoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="はい" mermaidId="e:D-&gt;E#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.12;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="はい" id="150">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="133" target="134">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="174" source="133" target="134" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1050" y="410"/>
+                                <mxPoint x="106.6676923076923" y="480"/>
                             </Array>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="いいえ" mermaidId="e:D-&gt;F#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.88;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="いいえ" id="151">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="133" target="136">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="174" source="133" target="136" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1370" y="410"/>
+                                <mxPoint x="533.3384615384616" y="480"/>
                             </Array>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="はい" mermaidId="e:G-&gt;H#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.11;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="はい" id="152">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="137" target="138">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="174" source="137" target="138" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1050" y="650"/>
+                                <mxPoint x="106.6676923076923" y="800"/>
                             </Array>
-                            <mxPoint x="1220" y="1360" as="sourcePoint"/>
+                            <mxPoint x="333.33653846153845" y="1746.6666666666667" as="sourcePoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="いいえ" mermaidId="e:G-&gt;I#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.92;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="いいえ" id="153">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);entryX=0.5;entryY=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="137" target="139">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);entryX=0.5;entryY=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="174" source="137" target="139" edge="1">
                         <mxGeometry x="-0.0003" y="-1" relative="1" as="geometry">
                             <mxPoint y="1" as="offset"/>
                             <Array as="points">
-                                <mxPoint x="1370" y="650"/>
+                                <mxPoint x="533.3384615384616" y="800"/>
                             </Array>
-                            <mxPoint x="1230" y="1360" as="sourcePoint"/>
-                            <mxPoint x="1465.4999999999995" y="1412.2500000000005" as="targetPoint"/>
+                            <mxPoint x="346.66999999999996" y="1746.6666666666667" as="sourcePoint"/>
+                            <mxPoint x="660.6730192307685" y="1816.333333333334" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:H-&gt;J#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.06;entryY=0;" mermaidBaseValue="" id="154">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="138" target="140">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="138" target="140" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1050" y="830"/>
+                                <mxPoint x="106.6676923076923" y="1040"/>
                             </Array>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:I-&gt;J#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.96;entryY=0;" mermaidBaseValue="" id="155">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="139" target="140">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="139" target="140" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1370" y="830"/>
+                                <mxPoint x="533.3384615384616" y="1040"/>
                             </Array>
-                            <mxPoint x="1455.4999999999995" y="1466.2500000000005" as="sourcePoint"/>
+                            <mxPoint x="647.339557692307" y="1888.333333333334" as="sourcePoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:J-&gt;K#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="156">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="140" target="141">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="140" target="141" edge="1">
                         <mxGeometry relative="1" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:K-&gt;L#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.4;entryY=0;" mermaidBaseValue="" id="157">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="141" target="142">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="141" target="142" edge="1">
                         <mxGeometry relative="1" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="いいえ" mermaidId="e:L-&gt;C#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.75;exitY=0;entryX=1;entryY=0.96;" mermaidBaseValue="いいえ" id="158">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="142">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" parent="174" source="142" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1490" y="1050"/>
-                                <mxPoint x="1490" y="270"/>
+                                <mxPoint x="693.3399999999999" y="1333.3333333333333"/>
+                                <mxPoint x="693.3399999999999" y="293.3333333333333"/>
                             </Array>
-                            <mxPoint x="1692.9999999999995" y="2102" as="sourcePoint"/>
-                            <mxPoint x="1210" y="270" as="targetPoint"/>
+                            <mxPoint x="964.0092692307685" y="2736" as="sourcePoint"/>
+                            <mxPoint x="320.00307692307695" y="293.3333333333333" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="はい" mermaidId="e:L-&gt;M#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="はい" id="159">
-                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="142" target="172">
+                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="174" source="142" target="172" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points"/>
-                            <mxPoint x="1211" y="1150" as="targetPoint"/>
+                            <mxPoint x="321.3364230769231" y="1466.6666666666665" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="はい" mermaidId="e:M-&gt;N#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="はい" id="160">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="143" target="144">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="174" source="143" target="144" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1050" y="1290"/>
+                                <mxPoint x="106.6676923076923" y="1653.3333333333333"/>
                             </Array>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="いいえ" mermaidId="e:M-&gt;O#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="いいえ" id="161">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="143" target="145">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=25;labelBackgroundColor=light-dark(#E8E8E88D,#2a2a2a8D);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="174" source="143" target="145" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1370" y="1290"/>
+                                <mxPoint x="533.3384615384616" y="1653.3333333333333"/>
                             </Array>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:N-&gt;P#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0;entryY=0.31;" mermaidBaseValue="" id="162">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="144" target="146">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="144" target="146" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1050" y="1470"/>
+                                <mxPoint x="106.6676923076923" y="1893.333333333333"/>
                             </Array>
-                            <mxPoint x="1120" y="1460" as="targetPoint"/>
+                            <mxPoint x="200.0019230769231" y="1880.0000000000002" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:O-&gt;P#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=1;entryY=0.31;" mermaidBaseValue="" id="163">
-                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="145" target="146">
+                    <mxCell style="curved=0;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="145" target="146" edge="1">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points">
-                                <mxPoint x="1370" y="1470"/>
+                                <mxPoint x="533.3384615384616" y="1893.333333333333"/>
                             </Array>
-                            <mxPoint x="1330" y="1480" as="targetPoint"/>
+                            <mxPoint x="480.00461538461536" y="1906.6666666666665" as="targetPoint"/>
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
-                <mxCell id="164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="140" target="140">
+                <mxCell id="164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="140" target="140" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="139" target="139">
+                <mxCell id="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="139" target="139" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="166" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="134">
+                <mxCell id="166" value="" style="endArrow=none;html=1;rounded=0;fontSize=25;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="174" target="134" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1050" y="570"/>
+                            <mxPoint x="106.6676923076923" y="693.3333333333333"/>
                         </Array>
-                        <mxPoint x="1210" y="570" as="sourcePoint"/>
-                        <mxPoint x="1340" y="660" as="targetPoint"/>
+                        <mxPoint x="320.00307692307695" y="693.3333333333333" as="sourcePoint"/>
+                        <mxPoint x="493.338076923077" y="813.3333333333333" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="167" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="136">
+                <mxCell id="167" value="" style="endArrow=none;html=1;rounded=0;fontSize=25;startSize=8;endSize=8;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="174" source="136" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1370" y="570"/>
+                            <mxPoint x="533.3384615384616" y="693.3333333333333"/>
                         </Array>
-                        <mxPoint x="1430" y="620" as="sourcePoint"/>
-                        <mxPoint x="1210" y="570" as="targetPoint"/>
+                        <mxPoint x="613.3392307692309" y="760" as="sourcePoint"/>
+                        <mxPoint x="320.00307692307695" y="693.3333333333333" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="168" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="137">
+                <mxCell id="168" value="" style="endArrow=classic;html=1;rounded=0;fontSize=25;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="174" target="137" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1210" y="570" as="sourcePoint"/>
-                        <mxPoint x="1340" y="660" as="targetPoint"/>
+                        <mxPoint x="320.00307692307695" y="693.3333333333333" as="sourcePoint"/>
+                        <mxPoint x="493.338076923077" y="813.3333333333333" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="170" target="173">
+                <mxCell id="169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="170" target="173" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="170" value="&lt;font color=&quot;#333333&quot; face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;検索結果表示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot; face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;開始&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-                    <mxGeometry x="1130" y="190" width="160" height="60" as="geometry"/>
+                <mxCell id="170" value="&lt;font face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span&gt;検索結果表示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span&gt;開始&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=25;" parent="174" vertex="1">
+                    <mxGeometry x="213.3353846153846" y="186.66666666666669" width="213.3353846153846" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="172" target="143">
+                <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;" parent="174" source="172" target="143" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="172" value="&lt;font color=&quot;#333333&quot; face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;検索結果表示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot; face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;終了&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;direction=west;" vertex="1" parent="1">
-                    <mxGeometry x="1130" y="1170" width="160" height="59.5" as="geometry"/>
+                <mxCell id="172" value="&lt;font face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span&gt;検索結果表示&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Trebuchet MS, Verdana, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span&gt;終了&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;direction=west;fontSize=25;" parent="174" vertex="1">
+                    <mxGeometry x="213.3353846153846" y="1493.3333333333335" width="213.3353846153846" height="79.33333333333333" as="geometry"/>
                 </mxCell>
                 <UserObject label="蔵書1冊分の情報を表示" mermaidId="n:B" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索件数を表示" id="173">
-                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1" parent="1">
-                        <mxGeometry x="1130" y="290" width="160" height="40" as="geometry"/>
+                    <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
+                        <mxGeometry x="213.3353846153846" y="320" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
             </root>
