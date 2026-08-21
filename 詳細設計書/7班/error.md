@@ -12,7 +12,8 @@
 |ERR_NON_INPUT|未入力の項目があります|利用者登録、スタッフ登録|
 |ERR_ALREADY_REGISTER|この利用者は既に登録されています|利用者登録、スタッフ登録|
 |ERR_FAILURE_INPUT|読み込みに失敗しました|利用者退会|
-|ERR_NON_USER_ID|利用者IDを入力してください|利用者退会|
+|ERR_NON_USER_ID|利用者IDを入力してください|予約申請<br>利用者退会|
+|ERR_HAS_RESERVE_BOOK|すでに蔵書を予約しています|予約申請|
 |ERR_HAS_BORROW_BOOK|この利用者には貸出中の蔵書が存在します|利用者退会|
 |ERR_NON_STAFF_ID|スタッフIDを入力してください|スタッフ退会|
 
